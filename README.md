@@ -6,5 +6,13 @@ The CEO of PyBer requested an analysis of the data by city type (Urban, Suburban
 ## Results:
 
 ### Summary DataFrame
+
 ![analysis/Deliverable1](analysis/Deliverable1.png)
+
+The Urban city type had more total drivers than total rides, meaning not every driver completed at least one ride. This affects the average fare per ride and average fare per driver. 
+
+The Urban city type had the lowest average fare per driver and earned significantly less than the Rural drivers although the Urban city type had the highest total fares.
+
+The Rural city type had the least number of total drivers and the highest average fare per driver.
+
 ![analysis/PyBer_fare_summary](analysis/PyBer_fare_summary.png)

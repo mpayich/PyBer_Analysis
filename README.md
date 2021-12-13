@@ -6,3 +6,4 @@ The CEO of PyBer requested an analysis of the data by city type (Urban, Suburban
 ## Results:
 
 ### Summary DataFrame
+![Deliverable1](Deliverable1.png)
